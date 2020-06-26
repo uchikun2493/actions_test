@@ -24,4 +24,4 @@ jobs:
         pip install -r requirements.txt
     - run: |
         pip install flake8
-        flake8 --select=E1
+        flake8 --select=E1, E2
