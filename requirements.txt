@@ -4,4 +4,4 @@ scipy
 pandas
 sklearn
 nptdms
-
+flake8
