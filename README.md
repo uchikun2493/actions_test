@@ -4,7 +4,5 @@
 
 CI的なことがしたいんだ
 
-> ## Requirement
-> ## Install
-> ## Usage
-> ## Other
+やって学ぶ形なので数多のpushを行って学ぶスタイル
+
