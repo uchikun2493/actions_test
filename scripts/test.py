@@ -4,9 +4,9 @@
 # import numpy as np
 # import matplotlib.pyplot as plt
 
-#test
+# test
 def main():
-        print('test')
+    print('test')
     
 if __name__ == '__main__':
     main()
